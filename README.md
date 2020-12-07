@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="soumya_shome | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="techie499 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=soumya-shome)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]:https://github.com/soumya-shome
 [youtube]:https://www.youtube.com/c/techie499yt
 [twitter]:https://twitter.com/soumya_shome
