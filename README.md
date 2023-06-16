@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love CB Movies
 
 ## Portfolio
- [Click Here](www.soumya-shome.github.io)
+ [Click Here](https://soumya-shome.github.io)
 
 ### Connect with me :
 
