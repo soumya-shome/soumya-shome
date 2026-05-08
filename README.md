@@ -37,17 +37,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Soumyadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumya-shome&show_icons=true&count_private=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-shome&layout=compact&hide=html&theme=default&hide_border=true)
-
----
-
 ### 🌐 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=githubpages&logoColor=white)](https://soumya-shome.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://soumya-shome.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadeep-s-150482135/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/techie499yt)
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=flat&logo=x&logoColor=white)](https://twitter.com/soumya_shome)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/soumya_shome)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/techie499/)
